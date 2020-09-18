@@ -9,6 +9,6 @@ int main() {
 	cin >> a >> b;
 
 	cout << a << " " << b;
-	//add from github
+	//master branch
 	return 0;
 }
